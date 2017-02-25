@@ -1,0 +1,9 @@
+Package: com.giuzzidotcom.lockscreencustomtext
+Name: Lockscreen Custom Text iOS10
+Depends: mobilesubstrate
+Version: 0.8
+Architecture: iphoneos-arm
+Description: Change the new iOS10 text (Press Home to unlock) in the lockscreen to whatever you like.
+Maintainer: 155matt
+Author: 155matt
+Section: Tweaks
